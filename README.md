@@ -1,8 +1,12 @@
 <h1 align="center">📝 MERN Stack Note Taking App ✨</h1>
 
-<link href="https://noteboard-3.onrender.com/">
+<p align="center">
+  🔗 <a href="https://noteboard-3.onrender.com/">Live Demo</a>
+</p>
 
-Highlights:
+---
+
+## 🌟 Highlights
 
 - 🧱 Full-Stack App Built with the MERN Stack (MongoDB, Express, React, Node)
 - ✨ Create, Update, and Delete Notes with Title & Description
@@ -19,26 +23,6 @@ Highlights:
 
 ### Backend (`/backend`)
 
-```
+```env
 MONGO_URI=<your_mongo_uri>
-
-
-
 NODE_ENV=development
-```
-
-## 🔧 Run the Backend
-
-```
-cd backend
-npm install
-npm run dev
-```
-
-## 💻 Run the Frontend
-
-```
-cd frontend
-npm install
-npm run dev
-```
